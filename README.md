@@ -21,9 +21,10 @@ Welcome to my corner of the tech world! I’m a B.Tech student passionate about 
 
 ## 🌍 Projects
 Here are some of the projects I've worked on (check them out in my repositories!):
-- **Gender Detection Model**
-- **Desktop Assistance**
-- **Deepfake Detection Model**
+-**[Techshe](https://github.com/wingFire-29/Techshe):** My startup project that I am currently building on my own.**
+- **Gender Detection Model(https://github.com/wingFire-29/Gender-detection-model)**
+- **Desktop Assistance(https://github.com/wingFire-29/P.I.A-)**
+- **Deepfake Detection Model(https://github.com/wingFire-29/Deepfake-detection-website)**
 
 ---
 
