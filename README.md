@@ -1,6 +1,7 @@
-# 👋 Hi there, I'm wingFire-29!
+# 👋 Hi there, I'm Parag Shrivastava
 
 Welcome to my GitHub profile! Here's a little about me:
+I am a College student pursuing a bachelor's in technology with a computer science specialization in Artificial Intelligence and Data Science!
 
 ---
 
