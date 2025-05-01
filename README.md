@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Parag Shrivastava
 
-Welcome to my GitHub profile! Here's a little about me:
-I am a College student pursuing a bachelor's in technology with a computer science specialization in Artificial Intelligence and Data Science!
+Welcome to my corner of the tech world! I’m a B.Tech student passionate about AI and Machine learning — always experimenting, learning, and pushing the boundaries of what code can do! 💻✨
 
 ---
 
